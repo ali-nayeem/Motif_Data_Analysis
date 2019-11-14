@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MotifDataProcess.iml" filepath="$PROJECT_DIR$/.idea/MotifDataProcess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Motif_Data_Analysis/.idea/Motif_Data_Analysis.iml" filepath="$PROJECT_DIR$/../Motif_Data_Analysis/.idea/Motif_Data_Analysis.iml" />
     </modules>
   </component>
 </project>
